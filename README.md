@@ -24,4 +24,4 @@ A streamlined setup for JavaScript projects using Webpack, ESLint, and Prettier.
 - `npm run watch`: Watch mode
 - `npm test`: Run tests (placeholder)
 
-For more details, see `webpack.config.js` and `.eslintrc.js`.
+For more details, see `webpack.config.js` and `eslint.config.mjs`.
